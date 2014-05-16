@@ -1,7 +1,7 @@
-live-coding-videos
+Live Coding Videos
 ==================
 
-Curation of videos that demonstrate live coding.
+Curation of videos that demonstrate (musical) live coding.
 
 - https://www.youtube.com/watch?v=04TcXlC9IBw : Thor Magnusson, IXI Lang
 - https://www.youtube.com/watch?v=bMP-7POtML0 : Sam Aaron and Jonathan Graham, Overtone
