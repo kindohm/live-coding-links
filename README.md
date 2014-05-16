@@ -16,4 +16,3 @@ Curation of videos that demonstrate (musical) live coding.
 - https://www.youtube.com/watch?v=fZppekP_XAg : Sheffield Algorave, Tidal
 - https://www.youtube.com/watch?v=dFQ9FrKYF3k : Sheffield Algorave, ?
 - https://www.youtube.com/watch?v=kJphgzBAPJo : Sheffield Algorave, Tidal
-- 
