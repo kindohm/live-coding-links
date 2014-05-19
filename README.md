@@ -16,3 +16,13 @@ Curation of videos that demonstrate (musical) live coding.
 - https://www.youtube.com/watch?v=fZppekP_XAg : Sheffield Algorave, Tidal
 - https://www.youtube.com/watch?v=dFQ9FrKYF3k : Sheffield Algorave, ?
 - https://www.youtube.com/watch?v=kJphgzBAPJo : Sheffield Algorave, Tidal
+- https://www.youtube.com/watch?v=CEXvk51IdEo : Amsterdam Algorave, compilation
+- http://motherboard.vice.com/nl/read/algorave-coden-in-de-club : Algorave: coden in de club
+- https://www.youtube.com/watch?v=Z-8DX7g2zEc : SLUB performance
+
+Live Coding Writings
+====================
+
+- http://lownorth.nl/text/FiberKeynoteMarcelWierckx.pdf: What is the question to which Live Coding is the answer?
+- http://www.vice.com/en_uk/read/algorave-is-the-future-of-dance-music-if-youre-an-html-coder : Algorave is the future of dance music
+- http://sdt.bz/content/article.aspx?ArticleID=70098&page=1 : Algoraves: dancing to live coding
