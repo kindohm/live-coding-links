@@ -19,6 +19,7 @@ Curation of videos that demonstrate (musical) live coding.
 - https://www.youtube.com/watch?v=CEXvk51IdEo : Amsterdam Algorave, compilation
 - http://motherboard.vice.com/nl/read/algorave-coden-in-de-club : Algorave: coden in de club
 - https://www.youtube.com/watch?v=Z-8DX7g2zEc : SLUB performance
+- http://vimeo.com/54124081 : Slub at /*VIVO*/
 
 Live Coding Writings
 ====================
