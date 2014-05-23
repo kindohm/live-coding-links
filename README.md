@@ -1,7 +1,7 @@
+Curation of videos, audio, and articles that demonstrate (musical) live coding.
+
 Videos
 ==================
-
-Curation of videos that demonstrate (musical) live coding.
 
 - https://www.youtube.com/watch?v=04TcXlC9IBw : Thor Magnusson, IXI Lang
 - https://www.youtube.com/watch?v=bMP-7POtML0 : Sam Aaron and Jonathan Graham, Overtone
@@ -31,11 +31,9 @@ Audio
 - https://soundcloud.com/meta-ex/machine-run
 - https://soundcloud.com/meta-ex/zurich-live
 - https://soundcloud.com/section_9/livenewcastlegateshead-algorave
-- 
 
 
-
-Live Coding Writings
+Writings
 ====================
 
 - http://lownorth.nl/text/FiberKeynoteMarcelWierckx.pdf: What is the question to which Live Coding is the answer?
