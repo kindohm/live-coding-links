@@ -1,4 +1,4 @@
-Live Coding Videos
+Videos
 ==================
 
 Curation of videos that demonstrate (musical) live coding.
@@ -20,6 +20,20 @@ Curation of videos that demonstrate (musical) live coding.
 - http://motherboard.vice.com/nl/read/algorave-coden-in-de-club : Algorave: coden in de club
 - https://www.youtube.com/watch?v=Z-8DX7g2zEc : SLUB performance
 - http://vimeo.com/54124081 : Slub at /*VIVO*/
+
+Audio
+=====
+
+- https://soundcloud.com/kindohm/live-coding-javascript-mn-meetup-2014-04-24
+- https://soundcloud.com/lurkorg/yaxu-live-at-ifai-belgrave
+- https://soundcloud.com/slub/slub-live-eavi
+- https://soundcloud.com/algorithmic-yorkshire/one
+- https://soundcloud.com/meta-ex/machine-run
+- https://soundcloud.com/meta-ex/zurich-live
+- https://soundcloud.com/section_9/livenewcastlegateshead-algorave
+- 
+
+
 
 Live Coding Writings
 ====================
