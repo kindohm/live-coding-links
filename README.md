@@ -39,3 +39,6 @@ Writings
 - http://lownorth.nl/text/FiberKeynoteMarcelWierckx.pdf: What is the question to which Live Coding is the answer?
 - http://www.vice.com/en_uk/read/algorave-is-the-future-of-dance-music-if-youre-an-html-coder : Algorave is the future of dance music
 - http://sdt.bz/content/article.aspx?ArticleID=70098&page=1 : Algoraves: dancing to live coding
+- http://perfectporridge.com/2014/05/28/livecodedaudio/ : Decoding Algoraves: Live Coded Audio coming to Minneapolis
+
+
