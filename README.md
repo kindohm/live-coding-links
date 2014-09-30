@@ -20,7 +20,7 @@ Videos
 - http://motherboard.vice.com/nl/read/algorave-coden-in-de-club : Algorave: coden in de club
 - https://www.youtube.com/watch?v=Z-8DX7g2zEc : SLUB performance
 - http://vimeo.com/54124081 : Slub at /*VIVO*/
-- https://www.youtube.com/watch?v=Noq5WBG8qoU&list=PLKgxw7RG3hcRJ0JoC_2eYYg99KFcjItvc : Mike Hodnick @ Bedlam July 11, 2014
+- http://youtu.be/Noq5WBG8qoU?list=PLKgxw7RG3hcRJ0JoC_2eYYg99KFcjItvc : Mike Hodnick @ Bedlam July 2014
 
 Audio
 =====
